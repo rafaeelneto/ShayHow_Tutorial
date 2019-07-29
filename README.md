@@ -1,2 +1,2 @@
-# ShayHowe_Tutorial
-Learning HTML & CSS
+# ShayHowe_Book
+Learning HTML & CSS Basics
